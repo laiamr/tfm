@@ -1,0 +1,118 @@
+﻿original_lemma;loanword_lemma;loanword_form;loanword_pos;loanword_features;loanword_type;loanword_category
+comment;comment;comment;noun, verb;lemma;direct borrowing;foreign lexeme
+tag;tag;tag;noun, verb;lemma;direct borrowing;foreign lexeme
+tag;tag;tags;noun;plural;direct borrowing;foreign lexeme
+story;story;story;noun;lemma;direct borrowing;foreign lexeme
+like;like;like;noun, verb;lemma;direct borrowing;foreign lexeme
+like;like;likes;noun;plural;direct borrowing;foreign lexeme
+message;message;message;noun, verb;lemma;direct borrowing;foreign lexeme
+profile;profile;profile;noun;lemma;direct borrowing;foreign lexeme
+tweet;tweet;tweet;noun, verb;lemma;direct borrowing;foreign lexeme
+tweet;tweet;tweets;noun;plural;direct borrowing;foreign lexeme
+post;post;post;noun, verb;lemma;direct borrowing;foreign lexeme
+post;post;posts;noun;plural;direct borrowing;foreign lexeme
+retweet;retweet;retweet;noun, verb;lemma;direct borrowing;foreign lexeme
+retweet;retweet;retweets;noun;plural;direct borrowing;foreign lexeme
+reply;reply;reply;noun, verb;lemma;direct borrowing;foreign lexeme
+follower;follower;follower;noun;lemma;direct borrowing;foreign lexeme
+block;block;block;verb;lemma;direct borrowing;foreign lexeme
+pin;pin;pin;verb;lemma;direct borrowing;foreign lexeme
+share;share;share;verb;lemma;direct borrowing;foreign lexeme
+ban;ban;ban;noun, verb;lemma;direct borrowing;foreign lexeme
+repost;repost;repost;noun, verb;lemma;direct borrowing;foreign lexeme
+follow;follow;follow;verb;lemma;direct borrowing;foreign lexeme
+mute;mute;mute;verb;lemma;direct borrowing;foreign lexeme
+friend;friend;friend;noun, verb;lemma;direct borrowing;foreign lexeme
+unfollow;unfollow;unfollow;verb;lemma;direct borrowing;foreign lexeme
+direct message;direct message;direct message;noun;lemma;direct borrowing;foreign lexeme
+subscribe;subscribe;subscribe;verb;lemma;direct borrowing;foreign lexeme
+seen;seen;seen;verb;participle;direct borrowing;foreign lexeme
+comment;comentari;comentaris;noun;plural;calque;native lexeme
+tag;etiqueta;etiquetes;noun;plural;calque;native lexeme
+story;història;històries;noun;plural;calque;native lexeme
+like;m'agrada;m'agrades;noun;plural;calque;native lexeme
+message;missatge;missatges;noun;plural;calque;native lexeme
+profile;perfil;perfils;noun;plural;calque;native lexeme
+tweet;piulada;piulades;noun;plural;calque;native lexeme
+tweet;piulet;piulets;noun;plural;calque;native lexeme
+post;publicació;publicacions;noun;plural;semantic extension;native lexeme
+retweet;repiulet;repiulets;noun;plural;calque;native lexeme
+reply;resposta;respostes;noun;plural;calque;native lexeme
+retweet;retuit;retuits;noun;plural;full adaptation;foreign lexeme
+follower;seguidor;seguidora;noun;feminine;calque;native lexeme
+follower;seguidor;seguidors;noun;plural;calque;native lexeme
+tweet;tuit;tuits;noun;plural;full adaptation;foreign lexeme
+block;blocar;blocant;verb;gerund;calque;native lexeme
+block;blocar;blocat;verb;participle;calque;native lexeme
+block;bloquejar;bloquejant;verb;gerund;calque;native lexeme
+block;bloquejar;bloquejat;verb;participle;calque;native lexeme
+pin;clavar;clavant;verb;gerund;calque;native lexeme
+pin;clavar;clavat;verb;participle;calque;native lexeme
+comment;comentar;comentant;verb;gerund;calque;native lexeme
+comment;comentar;comentat;verb;participle;calque;native lexeme
+share;compartir;compartint;verb;gerund;calque;native lexeme
+share;compartir;compartit;verb;participle;calque;native lexeme
+tag;etiquetar;etiquetant;verb;gerund;calque;native lexeme
+tag;etiquetar;etiquetat;verb;participle;calque;native lexeme
+tag;etiquetar;etiquetada;verb;participle;calque;native lexeme
+tag;etiquetar;etiquetats;verb;participle;calque;native lexeme
+tag;etiquetar;etiquetades;verb;participle;calque;native lexeme
+like;likejar;likejant;verb;gerund;partial adaptation;foreign lexeme
+like;likejar;likejat;verb;participle;partial adaptation;foreign lexeme
+tweet;piular;piulant;verb;gerund;calque;native lexeme
+tweet;piular;piulat;verb;participle;calque;native lexeme
+ban;prohibir;prohibint;verb;gerund;calque;native lexeme
+ban;prohibir;prohibit;verb;participle;calque;native lexeme
+post;publicar;publicant;verb;gerund;semantic extension;native lexeme
+post;publicar;publicat;verb;participle;semantic extension;native lexeme
+retweet;repiular;repiulant;verb;gerund;calque;native lexeme
+retweet;repiular;repiulat;verb;participle;calque;native lexeme
+repost;republicar;republicant;verb;gerund;calque;native lexeme
+repost;republicar;republicat;verb;participle;calque;native lexeme
+retweet;retuitejar;retuitejant;verb;gerund;full adaptation;foreign lexeme
+retweet;retuitejar;retuitejat;verb;participle;full adaptation;foreign lexeme
+follow;seguir;seguint;verb;gerund;calque;native lexeme
+follow;seguir;seguit;verb;participle;calque;native lexeme
+mute;silenciar;silenciant;verb;gerund;calque;native lexeme
+mute;silenciar;silenciat;verb;participle;calque;native lexeme
+tweet;tuitejar;tuitejant;verb;gerund;full adaptation;foreign lexeme
+tweet;tuitejar;tuitejat;verb;participle;full adaptation;foreign lexeme
+friend;amic;amic;noun;singular;calque;native lexeme
+block;blocar;blocar;verb;infinitive;calque;native lexeme
+block;bloquejar;bloquejar;verb;infinitive;calque;native lexeme
+pin;clavar;clavar;verb;infinitive;calque;native lexeme
+comment;comentar;comentar;verb;infinitive;calque;native lexeme
+comment;comentari;comentari;noun;singular;calque;native lexeme
+share;compartir;compartir;verb;infinitive;calque;native lexeme
+unfollow;deixar de seguir;deixar de seguir;verb;infinitive;syntactic composition;native lexeme
+tag;etiqueta;etiqueta;noun;singular;calque;native lexeme
+tag;etiquetar;etiquetar;verb;infinitive;calque;native lexeme
+story;història;història;noun;singular;calque;native lexeme
+like;likejar;likejar;verb;infinitive;partial adaptation;foreign lexeme
+like;m'agrada;m'agrada;noun;singular;calque;native lexeme
+message;missatge;missatge;noun;singular;calque;native lexeme
+direct message;missatge directe;missatge directe;noun;singular;calque;native lexeme
+profile;perfil;perfil;noun;singular;calque;native lexeme
+tweet;piulada;piulada;noun;singular;calque;native lexeme
+tweet;piular;piular;verb;infinitive;calque;native lexeme
+tweet;piulet;piulet;noun;singular;calque;native lexeme
+ban;prohibir;prohibir;verb;infinitive;calque;native lexeme
+post;publicació;publicació;noun;singular;semantic extension;native lexeme
+post;publicar;publicar;verb;infinitive;semantic extension;native lexeme
+retweet;repiulada;repiulada;noun;singular;calque;native lexeme
+retweet;repiular;repiular;verb;infinitive;calque;native lexeme
+retweet;repiulet;repiulet;noun;singular;calque;native lexeme
+repost;republicar;republicar;verb;infinitive;calque;native lexeme
+reply;respondre;respondre;verb;infinitive;calque;native lexeme
+reply;resposta;resposta;noun;singular;calque;native lexeme
+retweet;retuit;retuit;noun;singular;full adaptation;foreign lexeme
+retweet;retuitar;retuitar;verb;infinitive;full adaptation;foreign lexeme
+retweet;retuitejar;retuitejar;verb;infinitive;full adaptation;foreign lexeme
+follower;seguidor;seguidor;noun;singular;calque;native lexeme
+follow;seguir;seguir;verb;infinitive;calque;native lexeme
+mute;silenciar;silenciar;verb;infinitive;calque;native lexeme
+subscribe;subscriure's;subscriure's;verb;infinitive;calque;native lexeme
+tweet;tuit;tuit;noun;singular;full adaptation;foreign lexeme
+tweet;tuitar;tuitar;verb;infinitive;full adaptation;foreign lexeme
+tweet;tuitejar;tuitejar;verb;infinitive;full adaptation;foreign lexeme
+seen;vist;vist;verb;participle;calque;native lexeme
